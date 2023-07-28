@@ -1,0 +1,7 @@
+INFORMACION DE PC Y IP (ipconfig/all)
+
+quien esta conectado a tu red (netstat)
+
+tirar internet (ping ip -t)
+
+

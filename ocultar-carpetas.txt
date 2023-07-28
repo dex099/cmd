@@ -1,0 +1,17 @@
+PARA OCULTAR CARPETAS attrib +h +s +r NOMBRE DE LA CARPETA
+ 
+PARA MOSTRAR CARPETAS attrib -h -s -r NOMBRE DE LA CARPETA
+
+PARA SIFRAR CARPETAS cipher /E
+ 
+PARA DESSIFRAR LA CARPETA cipher /D
+
+
+
+
+nota debes estar em cmd de la usb
+
+carpetas ocultas 
+carpetas 
+.bat
+yayis

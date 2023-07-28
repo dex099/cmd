@@ -1,0 +1,13 @@
+nombre y contraseña de red  1) netsh wlan set hostednetwork mode=allow ssid=NOMBRE DE RED key=CLAVE DE RED
+
+iniciar red 2) netsh wlan start hostednetwork
+
+detener red 3) netsh wlan stop hostednetwork
+
+espesificaciones de red 4) netsh wlan show hostednetwork
+
+contraseña de red 5) netsh wlan show hostednetwork security
+
+
+
+TUTORIAL https://www.youtube.com/watch?v=BxqtDEAZa_E

@@ -1,0 +1,8 @@
+1 pkgmgr /iu:"TelnetClient"
+
+2telnet
+
+3 o
+
+4 towel.blinkenlights.nl
+

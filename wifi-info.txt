@@ -1,0 +1,9 @@
+primer comado (netsh)
+
+redes disponibles (wlan show profile)
+
+info de red (wlan show profile "NOMBRE DE RED" key=clear)
+
+NOTA DEBES ESTAR CONECTADO A LA RED
+
+https://www.youtube.com/watch?v=oA3a-JcXhs8
